@@ -1,0 +1,794 @@
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(): Failed opening 'inhabitorhtml/error_php.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(): Failed opening 'inhabitorhtml/error_php.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(inhabitorhtml/error_php.php): failed to open stream: No such file or directory in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 08:05:03 UTC] PHP Warning:  include(): Failed opening 'inhabitorhtml/error_php.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 269
+[22-Jan-2019 10:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:44 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:27:57 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:13 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:13 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:25 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:25 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:26 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:28:58 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:25 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[22-Jan-2019 10:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php:366
+Stack trace:
+#0 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(135): get_instance()
+#1 /home/digiebot/public_html/app.digiebot.com/application/hooks/Inhibitor_hook.php(88): InhibitorHook->_forward_error('\nError Type: Er...')
+#2 [internal function]: InhibitorHook->handle_exceptions(Object(Error))
+#3 {main}
+  thrown in /home/digiebot/public_html/app.digiebot.com/system/core/CodeIgniter.php on line 366
+[07-Feb-2019 12:55:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 638
+[07-Feb-2019 13:55:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 684
+[07-Feb-2019 14:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 592
+[07-Feb-2019 15:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 445
+[07-Feb-2019 16:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[07-Feb-2019 16:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[07-Feb-2019 17:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 226
+[07-Feb-2019 17:55:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[07-Feb-2019 18:55:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 521
+[07-Feb-2019 19:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 521
+[07-Feb-2019 20:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 356
+[07-Feb-2019 21:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[07-Feb-2019 21:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[07-Feb-2019 22:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[07-Feb-2019 22:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[07-Feb-2019 23:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[07-Feb-2019 23:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 00:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 226
+[08-Feb-2019 00:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 01:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 01:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 02:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 02:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 03:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 03:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 04:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 226
+[08-Feb-2019 04:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 05:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 05:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 06:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 06:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 07:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Waqar.php on line 226
+[08-Feb-2019 07:55:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 08:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 08:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/digiebot/public_html/app.digiebot.com/system/core/Exceptions.php on line 1
+[08-Feb-2019 09:27:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 09:28:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 09:34:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[08-Feb-2019 09:36:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/digiebot/public_html/app.digiebot.com/application/libraries/mongodb_class/mongodb/mongodb/src/Model/BSONDocument.php on line 83
+[14-Feb-2019 10:51:48 UTC] PHP Fatal error:  Redefinition of parameter $global_setting_arr in /home/digiebot/public_html/app.digiebot.com/application/models/admin/Mod_test_percentile_trigger.php on line 369
+[15-Feb-2019 10:58:12 UTC] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/digiebot/public_html/app.digiebot.com/test.php on line 8
+[15-Feb-2019 10:59:42 UTC] PHP Warning:  socket_read(): unable to read from socket [104]: Connection reset by peer in /home/digiebot/public_html/app.digiebot.com/test.php on line 27
+[18-Feb-2019 11:01:34 UTC] PHP Fatal error:  Redefinition of parameter $global_setting_arr in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Percentile_trigger_test.php on line 650
+[18-Feb-2019 11:01:54 UTC] PHP Fatal error:  Redefinition of parameter $global_setting_arr in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Percentile_trigger_test.php on line 650
+[18-Feb-2019 11:01:55 UTC] PHP Fatal error:  Redefinition of parameter $global_setting_arr in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Percentile_trigger_test.php on line 650
+[18-Feb-2019 11:02:00 UTC] PHP Fatal error:  Redefinition of parameter $global_setting_arr in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Percentile_trigger_test.php on line 650
+[18-Feb-2019 11:05:21 UTC] PHP Fatal error:  Redefinition of parameter $market_price in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Percentile_trigger_test.php on line 652
+[22-Feb-2019 09:27:05 UTC] PHP Fatal error:  Cannot redeclare Box_trigger_3_test::cancel_trades() in /home/digiebot/public_html/app.digiebot.com/application/controllers/admin/Box_trigger_3_test.php on line 186
+[11-Apr-2019 06:56:53 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 06:56:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 06:56:53 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 06:56:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:01:21 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:01:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:01:21 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:01:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:42 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:43 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:58 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:58 UTC] PHP Warning:  require_once(/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305
+[11-Apr-2019 07:26:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/digiebot/public_html/scripts.digiebot.com/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/digiebot/public_html/scripts.digiebot.com/index.php on line 305

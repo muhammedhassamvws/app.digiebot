@@ -1,0 +1,375 @@
+###
+
+POST http://localhost:3013/api/trading/dashboardStats
+Content-Type: application/json
+
+{
+    "user_id": "5c0912b7fc9aadaac61dd072", 
+    "coin": "XRPBTC", 
+    "exchange": "bam", 
+    "application_mode": "test"
+}
+
+### 
+POST http://localhost:3010/apiEndPoint/listOrderListing
+Content-Type: application/json
+
+{
+    "postData": {
+        "application_mode": "live",
+        "admin_id": "6073aa78c90a6619e03a4392",
+        "skip": 0,
+        "limit": 20,
+        "coins": [],
+        "order_type": "",
+        "trigger_type": "",
+        "order_level": "",
+        "start_date": "",
+        "end_date": "",
+        "status": "open",
+        "exchange": "binance"
+    }
+}
+
+
+### 
+POST https://app.digiebot.com/admin/Api_calls/manage_coins_test
+Content-Type: application/json
+
+{
+    "exchange": "binance",
+    "user_id": "5c0913f4fc9aadaac61dd0e4"
+}
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Atg/find_available_btc_usdt_test
+Content-Type: application/json
+
+{ 
+    "user_id": "5eb5a5a628914a45246bacc6",
+    "exchange": "binance",
+    "baseCurrencyArr": ["BTC", "USDT"],
+    "customBtcPackage": 1,
+    "customUsdtPackage": 30000,
+    "dailTradeAbleBalancePercentage": 20
+}
+
+###
+
+POST http://35.153.9.225:3006/updateUserBalance
+Content-Type: application/json
+
+{ 
+    "validating": true,
+    "user_id": "5c091555fc9aadaac61dd187",
+	"api_key" : "cZVHmoLyRuQAyD6PEZyDthzrqiIJAZR81DqoTkZwxsh2dH1QBsDC8n1a",
+    "api_secret" : "mDzp5BVLXvwsPJdBu7Mhm/VBoLqcXNHGw2YnceSJtgzM1kgFdnPkI54Galgt8X71nG3Oq1wzCFoqCjbXw2cGdA=="
+}
+
+###
+
+POST https://app.digiebot.com/admin/Api_calls/update_user_buy_trading_points
+Content-Type: application/json
+Authorization: Basic cG9pbnRTdXBwbHk6NGU0NmQ5OWFjMjJhNGIwYWJlNTc2OGE3OGVlODdiOGM=
+
+{ 
+    "user_id" : "5f8833a93e3ecc6a023f45f8",
+    "trading_points_buy" : 200
+}
+
+###
+
+POST https://app.digiebot.com/admin/Api_services/get_user_coins
+Content-Type: application/json
+
+{ 
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam"
+}
+
+
+###
+
+POST https://app.digiebot.com/admin/Api_services/add_user_coins
+Content-Type: application/json
+
+{ 
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam",
+    "symbols": ["BTCUSDT", "XRPUSDT", "ETHBTC", "XRPBTC", "NEOUSDT", "QTUMUSDT", "LTCUSDT", "ADABTC", "LINKBTC"]
+}
+
+
+###
+
+POST https://app.digiebot.com/admin/Api_services/get_global_coins
+Content-Type: application/json
+
+{ 
+    "exchange" : "binance"
+}
+
+###
+
+POST https://app.digiebot.com/admin/Api_services/get_available_btc_usdt_atg
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5eb5a5a628914a45246bacc6",
+    "exchange" : "binance",
+    "baseCurrencyArr": ["BTC", "USDT"],
+    "customBtcPackage": 1,
+    "customUsdtPackage": 30000,
+    "dailTradeAbleBalancePercentage": 20
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/get_auto_trade_settings
+POST https://app.digiebot.com/admin/Api_services/get_auto_trade_settings
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/save_auto_trade_settings
+POST https://app.digiebot.com/admin/Api_services/save_auto_trade_settings
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam",
+    "data" : {
+        "curr_step": "step_5",
+        "step_1": {
+            "exchange": "bam"
+        },
+        "step_4": {
+            "stop_loss": "yes",
+            "loss_percentage": 2.5,
+            "lth_functionality": "yes",
+            "lth_profit": 2.5,
+            "cancel_previous_parents": "no",
+            "totalTradeAbleInUSD": 1000,
+            "btcInvestPercentage": 100,
+            "usdtInvestPercentage": 100,
+            "tradeableUSDT": 23.11,
+            "tradeableBTC": 0.006,
+            "actualTradeableUSDT": 23.11,
+            "actualTradeableBTC": 0.006,
+            "dailTradeAbleBalancePercentage": 10,
+            "dailyTradeableBTC": 0.0006,
+            "dailyTradeableUSDT": 2.31,
+            "availableBTC": 0.006,
+            "availableUSDT": 23.11,
+            "dailyTradesExpectedBtc": 3,
+            "dailyTradesExpectedUsdt": 0,
+            "coinsCategoryWorth": [
+            {
+                "coin": "ADABTC",
+                "worth": 11.55,
+                "minQtyUsd": 8.71,
+                "tradeCount": 3
+            }
+            ],
+            "baseCurrencyArr": [
+            "BTC",
+            "USDT"
+            ],
+            "profit_percentage": 2.5,
+            "remove_duplicates": "yes",
+            "update_trade_worth": "yes",
+            "enable_money_managment": "yes",
+            "auto_buy_bnb": "yes",
+            "customBtcPackage": 0.02,
+            "customUsdtPackage": 1000
+        },
+        "step_3": {
+            "bots": [
+            "level_1"
+            ]
+        },
+        "step_2": {
+            "coins": [
+            "ADABTC"
+            ]
+        }
+    }
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/reset_auto_trade_generator
+POST https://app.digiebot.com/admin/Api_services/edit_profile
+Content-Type: application/json
+
+{ 
+    "user_id" : "5d9d9482710a9027ff3da7b2",
+    "phone_number": "123456789"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/get_auto_trade_parents
+POST https://app.digiebot.com/admin/Api_services/get_auto_trade_parents
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam"
+}
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Api_test/get_api_keys
+# POST https://app.digiebot.com/admin/Api_services/get_api_keys
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5c0915befc9aadaac61dd1b8",
+    "exchange" : "kraken"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/get_api_keys
+POST https://app.digiebot.com/admin/Api_services/get_api_keys
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "user_id" : "5c0915befc9aadaac61dd1b8",
+    "exchange" : "kraken"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/velidate_api_key
+POST https://app.digiebot.com/admin/Api_services/velidate_api_key
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "exchange" : "kraken",
+    "user_id" : "",
+	"api_key" : "Wg0HPrObF7fEP+htMwgDe1ADAai4Ea5r4B3wZaEUVHcSgXp1W3qAg+uG1",
+	"api_secret" : "7Tcvt2GiiiJXwiXrKEfEA5CjA/pxx51K1Qe0r1kB++zNjowJ0X1P6DrgKhWYmELPvWt0lHWfpePCa1HE4Sw3+g==1"
+}
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Api_test/save_api_key
+# POST https://app.digiebot.com/admin/Api_services/save_api_key
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "exchange" : "bam",
+    "user_id" : "5c0915befc9aadaac61dd1b8",
+	"api_key" : "z1in8ZGQwYLReFiPdsDoMtfBWhQeOOWG7VRnTMu3zVD1AV8cbsEb5FLOhRoxk79H",
+	"api_secret" : "GwSqxV2qpyZw4Dm0aLSWVMjq6EKRuMQM92GbUtvIKLD7cTm9KrxHAiugqFuIqzns"
+}
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Api_test/save_api_key
+# POST https://app.digiebot.com/admin/Api_services/save_api_key
+Content-Type: application/json
+
+{ 
+    "application_mode": "live",
+    "exchange" : "bam",
+    "user_id" : "5c0915befc9aadaac61dd1b8",
+	"api_key" : "z1in8ZGQwYLReFiPdsDoMtfBWhQeOOWG7VRnTMu3zVD1AV8cbsEb5FLOhRoxk79H",
+	"api_secret" : "GwSqxV2qpyZw4Dm0aLSWVMjq6EKRuMQM92GbUtvIKLD7cTm9KrxHAiugqFuIqzns"
+}
+
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Api_test/update_user_data
+# POST https://app.digiebot.com/admin/Api_calls/update_user_data
+Content-Type: application/json
+
+{ 
+    "exchange" : "binance",
+    "user_id" : "5d9d9482710a9027ff3da7b2",
+    "data": {
+        "set": {
+            "key": "val",
+        },
+        "unset": {
+            "key1": "val1"
+        }
+    }
+}
+
+###
+
+POST https://app.digiebot.com/admin/trading_reports/Api_test/disable_api_key
+# POST https://app.digiebot.com/admin/Api_services/disable_api_key
+Content-Type: application/json
+
+{ 
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam",
+   "key_type": "primary",
+   "application_mode" : "live"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/disable_api_key
+POST https://app.digiebot.com/admin/Api_services/login_process_support
+Content-Type: application/json
+
+{ 
+    "user_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "bam",
+   "key_type": "primary",
+   "application_mode" : "live"
+}
+
+###
+POST https://app.digiebot.com/admin/Api_services/orderListing_test
+Content-Type: application/json
+
+{ 
+    "admin_id" : "6073aa78c90a6619e03a4392",
+    "exchange" : "binance",
+    "status" : "open",
+   "application_mode" : "live"
+}
+
+###
+POST https://app.digiebot.com/admin/Api_calls/update_username
+Content-Type: application/json
+
+{ 
+    "user_id" : "5d9d9482710a9027ff3da7b2",
+   "username" : "umer.abbas"
+}
+
+###
+
+# POST https://app.digiebot.com/admin/trading_reports/Api_test/get_order_levels
+POST https://app.digiebot.com/admin/Api_services/get_all_coins_list
+Content-Type: application/json
+
+{ 
+    "admin_id" : "5c0912b7fc9aadaac61dd072",
+    "exchange" : "binance"
+}
+
+
+

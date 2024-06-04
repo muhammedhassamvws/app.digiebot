@@ -1,0 +1,52 @@
+######################## Random Executing Crons ##############################
+
+# Set pick parent to no if base currency daily limit exceed (random 2 minutes cron)
+*/2 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_daily_limit > /dev/null 2>&1
+*/2 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_daily_limit_bam > /dev/null 2>&1
+*/2 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_daily_limit_kraken > /dev/null 2>&1
+
+# Check daily limit exceed (random 3 minutes cron)
+*/3 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob get_recent_buy_orders_users > /dev/null 2>&1
+*/3 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob get_recent_buy_orders_users_kraken > /dev/null 2>&1
+*/3 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob get_recent_buy_orders_users_bam > /dev/null 2>&1
+
+# Set pick parent to no if base currency has low balance (random 5 minutes cron)
+*/5 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_low_balance > /dev/null 2>&1
+*/5 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_low_balance_bam > /dev/null 2>&1
+*/5 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob unset_pick_parent_based_on_base_currency_low_balance_kraken > /dev/null 2>&1
+
+# Calculate ATG usd_worth and qty for users (random 4 minute cron)
+*/4 * * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_usd_worth_and_tradeable_balance > /dev/null 2>&1
+*/6 * * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_usd_worth_and_tradeable_balance_bam > /dev/null 2>&1
+*/7 * * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_usd_worth_and_tradeable_balance_kraken > /dev/null 2>&1
+
+# Randomize sort (random 20 minutes cron)
+*/20 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob randomize_sort_number > /dev/null 2>&1
+*/21 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob randomize_sort_number_kraken > /dev/null 2>&1
+*/22 * * * * /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob randomize_sort_number_bam > /dev/null 2>&1
+
+######################## End Random Executing Crons ###########################
+
+
+######################## Daily Executing Crons ##############################
+
+# Calculate actual tradeable balance for users (daily cron utc 5:00 / PST 10:00am) 
+0 5 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_actual_tradeable_balance > /dev/null 2>&1
+30 5 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_actual_tradeable_balance_bam > /dev/null 2>&1
+45 5 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_auto_trade_actual_tradeable_balance_kraken > /dev/null 2>&1
+
+# Calculate trading points (daily cron utc 7:00 / PST 12:00pm day time)
+0 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob calculate_current_trading_points > /dev/null 2>&1
+0 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob calculate_current_trading_points_bam > /dev/null 2>&1
+0 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob calculate_current_trading_points_kraken > /dev/null 2>&1
+
+# Set daily limit (daily cron utc 7:59 / PST 12:59pm day time)
+59 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_daily_buy_limit > /dev/null 2>&1
+59 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_daily_buy_limit_bam > /dev/null 2>&1
+59 7 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob update_daily_buy_limit_kraken > /dev/null 2>&1
+
+# Set pick parent to yes (daily cron utc 8:15 / PST 1:15pm day time)
+15 8 * * *  /usr/bin/php -f /var/www/html/index.php admin trading_reports Cronjob set_pick_parent_yes > /dev/null 2>&1
+
+######################## End Daily Executing Crons ###########################
+
